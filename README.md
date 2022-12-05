@@ -4,8 +4,6 @@
 
 Alittle About Me:: Im currently 21yrs Old--Soon to be 22 in March ♓️. || I graduated with an Associates in Graphic Design. || My dream life is living in the south of france on a wine vinyard and speding my days reading romance and philisophy novels, painting landscapes, and well...drinking wine.
 
-Some of my fav Philosophy quotes :
-
 
 Proficient In These Areas ===
 
