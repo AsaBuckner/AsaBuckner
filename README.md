@@ -2,7 +2,7 @@
 - 👀 I’m interested in '60s Mod Style Graphic & Fashion Design//Full Stack Development
 - 🌱 I’m currently learning C++//CLO 3d Fashion//How Adulting Works
 
-Alittle About Me:: Im currently 21yrs Old--Soon to be 22 in March ♓️. || I graduated with an Associates in Graphic Design. || My dream life is living in the south of france on a wine vinyard and speding my days reading romance and philisophy novels, painting landscapes, and well...drinking wine.
+Alittle About Me:: Im currently 21yrs Old--Soon to be 22 in March ♓️. || I graduated with an Associates in Graphic Design.
 
 
 Proficient In These Areas ===
