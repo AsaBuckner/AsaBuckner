@@ -1,8 +1,9 @@
 - 👋 Hey-- My Name is Asa (Xavier),
-- 👀 I’m interested in '60s Mod Style Graphic & Fashion Design//Full Stack Development
-- 🌱 I’m currently learning C++//CLO 3d Fashion//How Adulting Works
+- 👀  Software Engineering || Full Stack Development || 60s Mod Graphics || Fashion Design  
+- 🌱 I’m currently learning Java || Python || Pattern Drafting || 3D Modeling || 
 
-Alittle About Me:: Im currently 21yrs Old--Soon to be 22 in March ♓️. || I graduated with an Associates in Graphic Design.
+A little About Me:: Im 22 ♓️. I graduated with an Associate in Graphic Design and am working towards my Bachelors's in Computer Science.
+I love to travel when I can and be outdoors. The South of France is the end goal. (Planning incredibly in advance but a girl can dream right...) I've never been able to stick to one thing so if settled on just doing it all. 
 
 
 Proficient In These Areas ===
