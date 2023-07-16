@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java || Python || Pattern Drafting || 3D Modeling || 
 
 A little About Me:: Im 22 ♓️. I graduated with an Associate in Graphic Design and am working towards my Bachelors's in Computer Science.
-I love to travel when I can and be outdoors. The South of France is the end goal. (Planning incredibly in advance but a girl can dream right...) I've never been able to stick to one thing so if settled on just doing it all. 
-
 
 Proficient In These Areas ===
 
