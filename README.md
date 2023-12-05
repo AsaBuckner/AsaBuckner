@@ -1,13 +1,12 @@
 - 👋 Hey-- My Name is Asa (Xavier),
-- 👀  Software Engineering || Full Stack Development || 60s Mod Graphics || Fashion Design  
-- 🌱 I’m currently learning Java || Python || Pattern Drafting || 3D Modeling || 
+- 👀  Jr Software Developer specializing in Full Stack Development
 
 A little About Me:: Im 22 ♓️. I graduated with an Associate in Graphic Design and am working towards my Bachelors's in Computer Science.
 
-Proficient In These Areas ===
+Profficent in ==
 
+JS || React.js || HTML\HTML5 || Java || CSS/CSS3 || SQL || NoSQL ||
 
-<img width="400" alt="Screen Shot 2022-12-03 at 5 24 43 PM" src="https://user-images.githubusercontent.com/109858499/205466380-100da6e0-ba90-48b1-aba6-b603b2fdf365.png">
 
 <!---
 AsaBuckner/AsaBuckner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
