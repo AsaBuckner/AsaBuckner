@@ -1,4 +1,4 @@
-- 👋 Hey-- My Name is Asa (Xavier),
+- 👋 Hey-- My Name is Asa,
 - 👀  Jr Software Developer specializing in Full Stack Development
 
 A little About Me:: Im 22 ♓️. I graduated with an Associate in Graphic Design and am working towards my Bachelors's in Computer Science.
