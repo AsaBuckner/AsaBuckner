@@ -1,9 +1,6 @@
-- 👋 Hey-- My Name is Asa,
+- 👋 Hey, My Name is Asa,
 - Software Developer specialized in Full Stack Development
 
-Profficent in ==
-
-JS || Next.JS || React.js || HTML\HTML5 || Java || CSS/CSS3 || SQL || NoSQL ||
 
 
 <!---
